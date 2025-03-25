@@ -1,28 +1,21 @@
-# My Portfolio
+# Amazon Clone
 
-This project is a personal portfolio website built using HTML, CSS, and JavaScript. The portfolio showcases my skills, projects, and contact information.
+This project is a clone of the Amazon website built using HTML and CSS. The clone replicates the look and feel of the Amazon homepage, including the navigation bar, search bar, hero section, product sections, and footer.
 
 ## Features
 
-- **Home Section**: Introduction and brief about me.
-- **About Section**: Detailed information about me, my skills, and education.
-- **Services Section**: List of services I offer.
-- **Portfolio Section**: Showcase of my recent projects.
-- **Contact Section**: Contact information and a form to send me a message.
+- **Navigation Bar**: Includes logo, delivery address, search bar, sign-in, returns, and cart sections.
+- **Hero Section**: Displays a message about shopping on Amazon.
+- **Product Sections**: Showcases various product categories with images and links.
+- **Footer**: Contains links to different sections such as "Get to Know Us", "Connect with Us", "Make Money with Us", and "Let Us Help You".
 
 ## Files
 
-- `portfolio.html`: The main HTML file that contains the structure of the portfolio.
-- `css/portfolio.css`: The CSS file that styles the portfolio.
-- `css/skins/color1.css`: Additional CSS file for color themes.
-- `css/style-switcher.css`: CSS file for the style switcher.
-- `js/portfolio.js`: JavaScript file for portfolio interactions.
-- `js/style-switcher.js`: JavaScript file for the style switcher.
-- `images/`: A directory containing images used in the portfolio.
+- `amazon clone.html`: The main HTML file that contains the structure of the Amazon clone.
+- `amazon clone.css`: The CSS file that styles the Amazon clone.
 
 ## Usage
 
-1. Open `portfolio.html` in a web browser.
-2. Navigate through different sections using the navigation menu.
-3. View my skills, services, and projects.
-4. Use the contact form to send me a message.
+1. Open `amazon clone.html` in a web browser.
+2. Navigate through different sections using the navigation bar.
+3. View the product categories and footer links.
